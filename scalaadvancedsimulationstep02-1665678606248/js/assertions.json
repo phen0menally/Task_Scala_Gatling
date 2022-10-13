@@ -1,0 +1,10 @@
+{
+  "simulation": "load.computerdatabase.advanced.ScalaAdvancedSimulationStep02",
+  "simulationId": "scalaadvancedsimulationstep02",
+  "start": 1665678606248,
+  "description": "",
+  "scenarios": ["Users", "Admins"],
+  "assertions": [
+
+  ]
+}
